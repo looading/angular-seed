@@ -3,4 +3,4 @@ define('controller', ['app'], function(app) {
 		console.log(222);
 		$scope.name = 'ctyloading';
 	}]);
-});
+});　
